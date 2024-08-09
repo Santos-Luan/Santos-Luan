@@ -43,7 +43,4 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/Santos-Luan/Santos-Luan/output/snake.svg" alt="Snake animation" />
-
 ###
